@@ -1,0 +1,13 @@
+
+{
+  "name": "advanced-tdd-salaries",
+  "version": "1.0.0",
+  "description": "TDD activity to remove salaries less than 50000",
+  "main": "removeSalaries.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
